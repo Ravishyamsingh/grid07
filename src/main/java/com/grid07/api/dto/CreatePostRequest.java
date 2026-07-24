@@ -9,3 +9,5 @@ public class CreatePostRequest {
     private AuthorType authorType;
     private String content;
 }
+
+
